@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_view_size_18">18sp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+
+    <dimen name="card_view">100dp</dimen>
+    <dimen name="linear_layout">60dp</dimen>
+
+    <dimen name="logo_">60dp</dimen>
+
+
+
+
+</resources>

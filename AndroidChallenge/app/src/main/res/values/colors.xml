@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#1A1919</color>
+
+    <color name="bg_toolbar">#FF9800</color>
+    <color name="bg_tab_layout">#FFFF</color>
+    <color name="menu_text">#1A1919</color>
+
+    <color name="bg_brace">#8D8C8C</color>
+
+</resources>

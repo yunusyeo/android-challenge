@@ -1,0 +1,119 @@
+
+  {
+    "soundList": [
+    
+          {
+            "id": "0",
+            "categoryId": "1",
+            "title": "Tavuskuşu",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/05/Peacock-scream.mp3"
+          },
+          {
+            "id": "1",
+            "categoryId": "1",
+            "title": "Bahçe Kuşu",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/05/Garden-blackbird-song.mp3"
+          },
+          {
+            "id": "2",
+            "categoryId": "1",
+            "title": "Papağan",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/05/Parrots-calling-in-pet-store.mp3"
+          },
+          {
+            "id": "3",
+            "categoryId": "1",
+            "title": "Kaz",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/06/Geese-sound-effect.mp3"
+          },
+          {
+            "id": "4",
+            "categoryId": "1",
+            "title": "Orman Kuşu",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/MP3/Birds-In-The-Forest.-Early-Spring-in-the-Forest.mp3"
+          },
+          {
+            "id": "0",
+            "categoryId": "2",
+            "title": "Beautiful Cinematic",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/06/Beautiful-cinematic-piano-background-music.mp3"
+          },
+          {
+            "id": "1",
+            "categoryId": "2",
+            "title": "Jingle Bells",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2019/12/Jingle-bells-short-piano-logo.mp3"
+          },
+          {
+            "id": "2",
+            "categoryId": "2",
+            "title": "Little Waltz",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2014/05/Little-waltz.mp3"
+          },
+          {
+            "id": "3",
+            "categoryId": "2",
+            "title": "Electro Blues",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2014/05/Electro-blues-groovy-lounge-track.mp3"
+          },
+          {
+            "id": "4",
+            "categoryId": "2",
+            "title": "Calm Piano",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/05/Calm-piano-music.mp3"
+          },
+          {
+            "id": "0",
+            "categoryId": "3",
+            "title": "Yağmur",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/07/Rain-in-gutter.mp3"
+          },
+          {
+            "id": "1",
+            "categoryId": "3",
+            "title": "Şiddetli Yağmur",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/07/Heavy-rain-white-noise-loop.mp3"
+          },
+          {
+            "id": "2",
+            "categoryId": "3",
+            "title": "Bahar Yağmuru",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/02/Easy-spring-rain-ambience.mp3"
+          },
+          {
+            "id": "3",
+            "categoryId": "3",
+            "title": "Yıldırım",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/08/Lightning-sound-effect.mp3"
+          },
+          {
+            "id": "4",
+            "categoryId": "3",
+            "title": "Ateş",
+            "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2015/10/Fire-crackling.mp3"
+          }
+    ],
+    "categoryList": [
+      {
+        "categoryId": "1",
+        "categoryName": "Kuş Sesleri"
+      },
+      {
+        "categoryId": "2",
+        "categoryName": "Piyano Sesleri"
+      },
+      {
+        "categoryId": "3",
+        "categoryName": "Doğa Sesleri"
+      }
+    ],
+    "favoriteList": [
+      {
+        "id": "0",
+        "categoryId": "2",
+        "title": "Beautiful Cinematic",
+        "soundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2020/06/Beautiful-cinematic-piano-background-music.mp3"
+      }
+    ]
+  }
+

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rahatlatıcı Sesler</string>
+
+    <string name="menu_favorites">Favorilerim</string>
+    <string name="menu_bookself">Kitaplık</string>
+    <string name="category_detail">Kategori Detay</string>
+
+    <string name="favorite_add_message">Ses favoriler listesinden çıkartıldı.</string>
+    <string name="favorite_delete_message">Ses favoriler listesine eklendi.</string>
+
+</resources>
